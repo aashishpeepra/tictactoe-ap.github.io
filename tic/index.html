@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TIC TAC TOE</title>
+    <link rel="stylesheet" href="useme-fonts.css">
+    <script src="prototype.js"></script>
+    <script src="aculos/effects.js"></script>
+    <link rel="stylesheet" href="ticstyles.css"></link>
+    <script src="logic.js">
+    </script>
+</head>
+<body>
+<div class="container-fluid">
+        <p class="header1" onclick="location.reload(true)"> TIC TAC TOE</p>
+    <div id="displayer" class="tictac">
+        <div class="titling">
+        <p class="title" id="playershow">PLAYER -</p>
+        </div>
+        <div class="content">
+<table>
+    <tr>
+        <td ><div class="blocks" onclick="move('1')"> <p id="1" class="user"></p></div> </td>
+        <td> <div class="blocks" onclick="move('2')"><p id="2" class="user"></p> </div></td>
+        <td>  <div class="blocks" onclick="move('3')"> <p id="3" class="user"></p> </div></td>
+    </tr>
+    <tr>
+        <td>  <div class="blocks" onclick="move('4')"> <p class="user" id="4"></p> </div></td>
+        <td > <div class="blocks" onclick="move('5')"> <p id="5" class="user"></p> </div></td>
+        <td> <div class="blocks" onclick="move('6')"> <p id="6" class="user"></p> </div></td>
+    </tr>
+    <tr>
+        <td> <div class="blocks" onclick="move('7')"> <p id="7" class="user"></p> </div></td>
+        <td> <div class="blocks" onclick="move('8')"> <p id="8" class="user"></p> </div></td>
+        <td > <div class="blocks" onclick="move('9')"> <p id="9" class="user"></p> </div></td>
+    </tr>
+</table>
+        </div>
+    </div>
+</div>
+</body>
+</html>

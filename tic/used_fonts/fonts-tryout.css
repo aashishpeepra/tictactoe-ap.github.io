@@ -1,0 +1,108 @@
+@font-face {
+  font-family: "alfaslab";
+  src:url("used_fonts/AlfaSlabOne-Regular.ttf");
+}
+@font-face{
+  font-family: "amatics";
+  src: url("used_fonts/AmaticsSC-Bold.ttf");
+}
+@font-face{
+  font-family:"amatics-reg";
+  src: url("AmaticsSC-Regular.ttf");
+}
+@font-face{
+  font-family: "anton";
+  src: url("Anton-Regular.ttf");
+}
+@font-face{
+  font-family: "berkshire";
+  src: url("BerkshireSwash-Regular.ttf");
+}
+@font-face{
+  font-family:"bow";
+  src: url("BowbyOneSC-Regular.ttf");
+}
+@font-face{
+  font-family:"cougrette";
+  src: url("Cougrette-Regular.ttf");
+}
+@font-face{
+   font-family:"dancing-bold";
+   src: url("DancingScript-Bold.ttf");
+}
+@font-face{
+  font-family:"dancing-regular";
+  src:url("DancingScript-Regular");
+}
+@font-face {
+  font-family: "gloria";
+  src:url("GloriaHallelujah.ttf");
+}
+@font-face{
+  font-family: "indie";
+  src:url("IndieFlower.ttf");
+}
+@font-face{
+  font-family: "kalam-light";
+  src: url("Kalam-Light.ttf");
+}
+@font-face{
+  font-family:"kalam-regular";
+  src:url("Kalam-Regular.ttf");
+}
+@font-face {
+  font-family:"kalam-bold";
+  src:url("Kalam-Bold.ttf")
+}
+@font-face{
+  font-family:"kaushan";
+  src:url("KaushanScript-regular.ttf");
+}
+@font-face{
+  font-family: "kdam";
+  src:url("KdamThmor-Regular.ttf");
+}
+@font-face{
+  font-family:"krona";
+  src:url("KronaOne-Regular.ttf");
+}
+@font-face{
+  font-family:"lobster";
+  src:url("Lobster-Regular.ttf");
+}
+@font-face{
+  font-family:"mina-bold";
+  src:url("Mina-Bold.ttf");
+}
+@font-face{
+  font-family:"mina-regular";
+  src:url("Mina-Regular.ttf");
+}
+@font-face{
+  font-family:"nanum";
+  src:url("NanumBrushScript-Regular.ttf");
+}
+@font-face{
+  font-family: opensans-bold;
+  src:url("OpenSansCondensed-Bold.ttf");
+}
+@font-face{
+  font-family:"opensans-regular";
+  src:url("OpenSansCondensed-Regular.ttf");
+}
+@font-face{
+  font-family:"pacifio";
+  scr:url("Pacifio-Regular.ttf");
+}
+@font-face{
+  font-family:"permanentmarker";
+  src:url("PermanentMarker-Regular.ttf");
+}
+@font-face{
+  font-family:"tangerine-bold";
+  src:url("Tangerine-Bold.ttf")
+}
+@font-face{
+  font-family:"tangerine-regular";
+  src:url("Tangerine-Regular.ttf")
+}

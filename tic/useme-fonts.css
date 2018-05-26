@@ -1,0 +1,108 @@
+@font-face {
+  font-family: "alfaslab";
+  src:url("used_fonts/used_fonts/AlfaSlabOne-Regular.ttf");
+}
+@font-face{
+  font-family: "amatics";
+  src: url("used_fonts/used_fonts/AmaticsSC-Bold.ttf");
+}
+@font-face{
+  font-family:"amatics-reg";
+  src: url("used_fonts/AmaticsSC-Regular.ttf");
+}
+@font-face{
+  font-family: "anton";
+  src: url("used_fonts/Anton-Regular.ttf");
+}
+@font-face{
+  font-family: "berkshire";
+  src: url("used_fonts/BerkshireSwash-Regular.ttf");
+}
+@font-face{
+  font-family:"bow";
+  src: url("used_fonts/BowbyOneSC-Regular.ttf");
+}
+@font-face{
+  font-family:"cougrette";
+  src: url("used_fonts/Cougrette-Regular.ttf");
+}
+@font-face{
+   font-family:"dancing-bold";
+   src: url("used_fonts/DancingScript-Bold.ttf");
+}
+@font-face{
+  font-family:"dancing-regular";
+  src:url("used_fonts/DancingScript-Regular");
+}
+@font-face {
+  font-family: "gloria";
+  src:url("used_fonts/GloriaHallelujah.ttf");
+}
+@font-face{
+  font-family: "indie";
+  src:url("used_fonts/IndieFlower.ttf");
+}
+@font-face{
+  font-family: "kalam-light";
+  src: url("used_fonts/Kalam-Light.ttf");
+}
+@font-face{
+  font-family:"kalam-regular";
+  src:url("used_fonts/Kalam-Regular.ttf");
+}
+@font-face {
+  font-family:"kalam-bold";
+  src:url("used_fonts/Kalam-Bold.ttf")
+}
+@font-face{
+  font-family:"kaushan";
+  src:url("used_fonts/KaushanScript-regular.ttf");
+}
+@font-face{
+  font-family: "kdam";
+  src:url("used_fonts/KdamThmor-Regular.ttf");
+}
+@font-face{
+  font-family:"krona";
+  src:url("used_fonts/KronaOne-Regular.ttf");
+}
+@font-face{
+  font-family:"lobster";
+  src:url("used_fonts/Lobster-Regular.ttf");
+}
+@font-face{
+  font-family:"mina-bold";
+  src:url("used_fonts/Mina-Bold.ttf");
+}
+@font-face{
+  font-family:"mina-regular";
+  src:url("used_fonts/Mina-Regular.ttf");
+}
+@font-face{
+  font-family:"nanum";
+  src:url("used_fonts/NanumBrushScript-Regular.ttf");
+}
+@font-face{
+  font-family: opensans-bold;
+  src:url("used_fonts/OpenSansCondensed-Bold.ttf");
+}
+@font-face{
+  font-family:"opensans-regular";
+  src:url("used_fonts/OpenSansCondensed-Regular.ttf");
+}
+@font-face{
+  font-family:"pacifio";
+  scr:url("used_fonts/Pacifio-Regular.ttf");
+}
+@font-face{
+  font-family:"permanentmarker";
+  src:url("used_fonts/PermanentMarker-Regular.ttf");
+}
+@font-face{
+  font-family:"tangerine-bold";
+  src:url("used_fonts/Tangerine-Bold.ttf")
+}
+@font-face{
+  font-family:"tangerine-regular";
+  src:url("used_fonts/Tangerine-Regular.ttf")
+}

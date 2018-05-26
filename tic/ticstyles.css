@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+}
+p.user{
+    padding-left:30px;
+    padding-right:auto;
+    padding-top: auto;
+    padding-bottom: 50px;
+    font-weight: bold;
+    font-family: permanentmarker,sans-serif;
+    font-size:50px;
+    color:white;
+}
+td{
+    height:50px;
+    width:50px;
+    border: 1px solid blac;
+
+}
+tr{
+    border 1px solid black;
+}
+p.header1{
+    font-family: kaushan,sans-serif;
+    font-size:50px;
+    color:white;
+    font-weight: bold;
+    padding-left:550px;
+}
+div.blocks{
+    height:120px;
+    width:120px;
+    border: 1px solid black;
+    background-color: black;
+}
+div.tictac{
+    background-color: white;
+    height:500px;
+    width:500px;
+    border:2px solid black;
+    margin-left:450px;
+    margin-bottom:auto;
+    margin-right:auto;
+}
+div.content{
+    margin-top:30px;
+    padding-left:65px;
+    padding-right:auto;
+    position: relative;
+}
+p.title{
+    font-size:30px;
+    font-weight:bold;
+    font-family:anton,sans-serif;
+
+}
+div.titling{
+    height:32px;
+    width:auto;
+    padding-left:170px;
+    padding-right:auto;
+}
